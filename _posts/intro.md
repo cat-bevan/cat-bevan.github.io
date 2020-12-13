@@ -3,4 +3,23 @@ layout: post
 title: Introduction to this project
 ---
 
-*Trans Media Watch* explores the media representation of trans-related stories from 2008 to the present day. For the scope of this project
+*Trans Media Watch* explores the media representation of trans-related stories from 2008 to the present day. For the scope of the project at the present time, I have limited the number of news outlets to analyze to five; Buzzfeed News, Huffpost, The Toronto Star, The Independent, and The Daily Mail. These sources span the majority of the English-speaking world, and present a combination of both digital-only and traditional print-based news sources. Chosen for their size, popularity, and admitedly, how easy their archives are to scrape for an amateur like me, these five news sources form the entirety of my data.
+
+This data consists of every single headline from their online archives, going as far back as 2006. Totaling around 8 million headlines, I have isolated only those which include trans-related language. For the purpose of this project, I have focused solely on headlines, and not the articles themselves. The primary reason is, of course, scope. However, I do believe a headline-only analysis to carry a special kind of importance, given that these are all taken from websites in which clicks are everything. It is no secret we live in the age of click-bait. Headlines are often more important than the article itself.
+
+## Live updating
+
+This website will continue to scrape and isolate new trans-related headlines on a daily basis. You can find an up-to-date visualization of the data on the 'Live Data' page. 
+
+## Trans terminology
+
+My discussion around my findings assume a basic knowledge of trans-related terminology. If you are unsure, I've prepared a brief list here:
+* transperson: someone who has 'transitioned' to a gender other than that with which they were assigned at birth.
+* transitioning: the process of, quite literally, transitioning from one's biological sex to their chosen gender.
+* transwoman: someone who previously lived as a boy/man and now lives as a girl/woman.
+* transman: someone who previously lived as a girl/woman and now lives as a boy/man.
+* non-binary: someone who's gender does not fit neatly within the male-female binary.
+* dysphoria: a deep-rooted incongruence between one's biological sex/assigned gender and their perception of themselves. Present in many transpeople, but not all.
+* gender confirming surgeries: various surguries which alter a transperson's body to be more in-line with their image of themselves. Can include breast removal/augmentation, genital surgery, facial feminization surgery, and surgery to the vocal chords. Pursued by some, but not all transpeople.
+* HRT: Hormone-replacement therapy. Many transpeople use HRT to replace the dominant hormone of their biological sex with the hormone of their gender (estrogen for transwomen, testosterone for transmen). Results in many physical, mental, and medical changes that alligns a transperson closer with their gender.
+
