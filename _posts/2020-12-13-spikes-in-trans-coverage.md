@@ -9,7 +9,7 @@ Trans-related headlines were virtually non-existant prior to 2010. It wasn't unt
 <iframe src="/images/bokehtesting.html"
   sandbox="allow-same-origin allow-scripts"
   width="100%"
-  height="600"
+  height="800"
   seamless="seamless"
   frameborder="0">
 </iframe>
