@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Changes in the language used in trans-related headlines"
 date: 2020-12-13
 ---
