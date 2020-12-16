@@ -22,5 +22,11 @@ Demographically, it has been said that transwomen do in fact outnumber transmen.
 
 Some of the most common 'debates' involving transpeople focus entirely on transwomen, ignoring a whole half of the trans community. For example, the 'bathroom' debate. Those who claim that transpeople should be forced to use the bathroom of their birth gender are really only referring to transwomen; seeing them gaining access to women's spaces as a 'threat'. This debate almost always fails to address that by this ruling, transmen would be using women's bathrooms. The same exact issue arises in the debate surrounding trans-athletes. The argument is presented that transwomen athletes (on HRT with estrogen levels and muscle-mass comparable to ciswomen) present an unfair challenge to ciswomen athletes. This again completely ignores that grouping athletes solely based on birth gender would also result in transmen (with testosterone levels and muscle-mass comparable to cismen) being matched with ciswomen atheletes instead. 
 
-
+<footer>
+	<ul>
+	    <li><a href="/">Home</a></li>
+	    <li><a href="mailto:catherinebevan@ualberta.ca">email</a></li>
+	    <li><a href="https://github.com/cat-bevan">github.com/cat-bevan</a></li>
+	</ul>
+</footer>
 
