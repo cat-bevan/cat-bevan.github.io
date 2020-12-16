@@ -47,3 +47,24 @@ There's a significant drop-off between *HuffPost* and *The Independent*. I would
 With this information, which is admittedly very limited in scope, no conclusions can be drawn in regards to which side of the political spectrum publishes more trans-related headlines. Moving on to the specific language used.
 
 ## Differences in language across different outlets
+
+First, a look at trans stories from *HuffPost*;
+
+<iframe style='width: 637px; height: 511px;' src='https://voyant-tools.org/tool/Cirrus/?palette=d3_cat20b&stopList=keywords-3157bc197a29f076586b89385a268fb5&whiteList=&visible=25&corpus=e094ad936fdda3c5a8780c6bf6fe5551'></iframe>
+
+As discussed in transmen vs. transwomen representation, it is no surprise to see women being the most represented word in trans-related headlines. HuffPost covers a variety of topics in high frequency, including the trans daughter of Dwayne Wade, the banning of transwomen athletes in Idaho, and various topics surrounding trans youth. In comparison, let's look at the language used in trans headlines from *Breitbart*;
+
+<iframe style='width: 637px; height: 511px;' src='https://voyant-tools.org/tool/Cirrus/?palette=d3_cat20b&stopList=keywords-67626b758aed868bb65b07441f30204d&whiteList=&visible=25&corpus=aa7cc7a6c00d4f0ae59507e7830866f8'></iframe>
+
+Three things in particular stand out to me. The first, is 'protect'. Included in headlines such as "WaPo Reveals Natural Alliance of Conservatives’
+and Feminists’ Efforts to Protect Children from Transgender Treatment", "Idaho First State to Protect Women’s Sports from Transgender Athletes" and "Transgender: HUD Issues Rule to Protect Women in Homeless Shelters", the alt-right clearly perceives trans identities as a danger to kids, cis atheletes, and ciswomen. These are old fears that have been debunked countless times by countless sources, but I suppose the far-right isn't known for their qualitative reasoning. It's vehement and blatant transphobia that is somehow still acceptable in some public circles, even after homophobia is kept out of these very same circles. 
+
+Second feature of note, is the grammatical incorrectness and quotes so frequently used around the word transgender. Using slurs is apparently below them, but headlines such as "Review Ordered of NHS Rules on ‘Transgender’ Teens’ Medical Treatments", "Female Inmate Claims She Was Raped by Transgender ‘Woman’ Moved into Housing Unit", "Report Claims Transgenders Being Denied ‘Lifesaving’ Surgery" and "YouTube Censors Heritage Foundation Video Featuring Former Transgender" fill that gap of not using a slur just fine. In other news outlets, incorrect usage of transgender as a noun was largely phased out by 2012 (discussed in changes in trans-related language post). Eight years later, it's nothing but purposeful insults.
+
+Lastly, I'd like to mention the frequent presence of Joe Biden. Biden has made several statements over the course of the election cycle in support of trans rights and identites. Interestingly, the far-right publishes more stories to mock and attack these statements than left-wing outlets publish stories supporting these comments.
+
+### Simularities and differences between stories covered in different geographical regions
+
+This is one aspect of my data set that I don't feel I have a large enough sample-size to make definite conclusions from. Given that I have only scrapped headlines from English-speaking US, Canada, and the UK, the stories that are covered are rather homogenous. In this limited sphere of media, I have found there to be greater differences between left and right-wing news sources from the same country than between two left-leaning sources in different parts of the world. Expanding this project to include non-English headlines and English headlines from other parts of Europe, Hong-Kong, Australia, etc., would make for very interesting research.
+
+
