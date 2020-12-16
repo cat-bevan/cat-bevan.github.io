@@ -4,13 +4,16 @@ import csv
 from faker import Faker
 import random
 
+#necessary imports. Faker, bs4, and requests are third-party
+#do note that I wrote my scrape scripts like this one a couple of months before the rest of the scripts. My Python is certainly messier here
 fake = Faker()
 
-monthCount = 10
+monthCount = 10 #initialize what date you want to start scraping the website from
 yearCount = 2020
 dayCount = 17
 numofLoops = 0
 
+# this messy section here was written before I was aware of datetime objects in Python
 
 if len(str(monthCount)) == 1:
     monthLink = '0' + str(monthCount)
@@ -58,18 +61,19 @@ def loopThrough():
 
     while currCount <= numofLoops:
         dayCount = dayCount + 1
-        headers = {'User-Agent': fake.user_agent()}
+        headers = {'User-Agent': fake.user_agent()} #random user-agent to bypass website defensives against webscraping
         
         if len(str(dayCount)) == 1:
             dayLink = '0' + str(dayCount)
         else:
             dayLink = str(dayCount)
-            
+        # these scrape scripts work by looping through all possible days in a url which is structured like below
+        # digital archives which organize their daily headlines by one page per day is ideal, like this
         r = requests.get('https://www.huffpost.com/archive/' + str(yearCount) + '-' + monthLink + '-' + dayLink, headers=headers)
 
         soup = bs(r.content, 'html.parser')
 
-        items =  soup.find_all('div', attrs={'class':'card__headline__text'})
+        items =  soup.find_all('div', attrs={'class':'card__headline__text'}) #this changes from website to website
 
         for item in items:
             with open('huffpost.csv', 'a', newline='') as file:
