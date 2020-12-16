@@ -70,6 +70,7 @@ This is one aspect of my data set that I don't feel I have a large enough sample
 
 <footer>
 	<ul>
+	    <li><a href="/">Home</a></li>
 	    <li><a href="mailto:catherinebevan@ualberta.ca">email</a></li>
 	    <li><a href="https://github.com/cat-bevan">github.com/cat-bevan</a></li>
 	</ul>
