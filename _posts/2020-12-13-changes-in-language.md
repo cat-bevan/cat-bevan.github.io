@@ -14,6 +14,7 @@ Below is a representation of how the use of 'transsexual' (or the mispelt 'trans
 
 <footer>
 	<ul>
+	    <li><a href="/">Home</a></li>
 	    <li><a href="mailto:catherinebevan@ualberta.ca">email</a></li>
 	    <li><a href="https://github.com/cat-bevan">github.com/cat-bevan</a></li>
 	</ul>
