@@ -10,3 +10,11 @@ Below is a representation of how the use of 'transsexual' (or the mispelt 'trans
 
 <iframe style='width: 637px; height: 511px;' src='https://voyant-tools.org/tool/Trends/?stopList=keywords-67c95fd1874d582ad4bc02296722b0da&query=transexual*&query=transsexual&query=transgendered*&query=tranny*&withDistributions=raw&bins=24&mode=document&corpus=e1e2ddf3e33bda9bba53f712707189e1'></iframe>
 (Note: this visualization is divided into equal sections by number of headlines, not by date. As such, bars towards the beginning span a much greater time-frame than it appears.)
+
+
+<footer>
+	<ul>
+	    <li><a href="mailto:catherinebevan@ualberta.ca">email</a></li>
+	    <li><a href="https://github.com/cat-bevan">github.com/cat-bevan</a></li>
+	</ul>
+</footer>
