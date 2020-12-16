@@ -68,3 +68,10 @@ Lastly, I'd like to mention the frequent presence of Joe Biden. Biden has made s
 This is one aspect of my data set that I don't feel I have a large enough sample-size to make definite conclusions from. Given that I have only scrapped headlines from English-speaking US, Canada, and the UK, the stories that are covered are rather homogenous. In this limited sphere of media, I have found there to be greater differences between left and right-wing news sources from the same country than between two left-leaning sources in different parts of the world. Expanding this project to include non-English headlines and English headlines from other parts of Europe, Hong-Kong, Australia, etc., would make for very interesting research.
 
 
+<footer>
+	<ul>
+	    <li><a href="mailto:catherinebevan@ualberta.ca">email</a></li>
+	    <li><a href="https://github.com/cat-bevan">github.com/cat-bevan</a></li>
+	</ul>
+</footer>
+
