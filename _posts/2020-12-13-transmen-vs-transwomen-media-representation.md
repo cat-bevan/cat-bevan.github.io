@@ -12,7 +12,7 @@ Immediately apparent after isolating trans-related headlines from my dataset, wa
 
 Making matters worse, many of these headlines which do include the word 'man', 'men', or 'male', are in fact headlines which refer to men who have killed, abused, or otherwise harmed transwomen. This dwindles the number of headlines truly addressing transmen even further. I went and extracted all 200+ trans-related headlines including male-coded language, and immediately apparent is that the most common word in these headlines is actually 'woman'.
 
-<iframe style='width: 637px; height: 511px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-e7f194e855f6ee4eab4672c5ea3d7071&whiteList=&corpus=950cb4d9d4dc2ddd72478d4dd2f5047c'></iframe>
+<iframe style='width: 637px; height: 511px;' src='https://voyant-tools.org/tool/Cirrus/?palette=d3_cat20b&stopList=keywords-9e7e710396b751b4e79264d0925b6393&whiteList=&corpus=c9f8da78f4e9b2c1bfe49713a4899672'></iframe>
 
 Some selected headlines from the bunch to help paint a picture; "Texas Man Gets 10 Years Probation For Death Of Transgender Woman", "Caitlyn Jenner Apologised For Saying A Trans Woman Shouldn't Look Like 'A Man In A Dress'", "'If she did want to check if I'm a man she'd be impressed': Donald Trump spars with transgender Beauty Queen", and "Transgender woman Davina Ayrton sent to male prison after rape conviction". These are, once again, actually the stories of transwomen. 
 
