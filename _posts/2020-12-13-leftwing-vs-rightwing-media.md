@@ -52,7 +52,7 @@ First, a look at trans stories from *HuffPost*;
 
 <iframe style='width: 637px; height: 511px;' src='https://voyant-tools.org/tool/Cirrus/?palette=d3_cat20b&stopList=keywords-3157bc197a29f076586b89385a268fb5&whiteList=&visible=25&corpus=e094ad936fdda3c5a8780c6bf6fe5551'></iframe>
 
-As discussed in transmen vs. transwomen representation, it is no surprise to see women being the most represented word in trans-related headlines. HuffPost covers a variety of topics in high frequency, including the trans daughter of Dwayne Wade, the banning of transwomen athletes in Idaho, and various topics surrounding trans youth. In comparison, let's look at the language used in trans headlines from *Breitbart*;
+As discussed in transmen vs. transwomen representation, it is no surprise to see 'woman' being the most represented word in trans-related headlines. HuffPost covers a variety of topics in high frequency, including the trans daughter of Dwayne Wade, the banning of transwomen athletes in Idaho, and various topics surrounding trans youth. In comparison, let's look at the language used in trans headlines from *Breitbart*;
 
 <iframe style='width: 637px; height: 511px;' src='https://voyant-tools.org/tool/Cirrus/?palette=d3_cat20b&stopList=keywords-67626b758aed868bb65b07441f30204d&whiteList=&visible=25&corpus=aa7cc7a6c00d4f0ae59507e7830866f8'></iframe>
 
