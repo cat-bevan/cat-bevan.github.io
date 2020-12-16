@@ -48,3 +48,11 @@ Interestingly, and against my expectations, trans-headlines have not seen any la
 Looking at the data, it is clear that political headlines surrounding controversy on trans-related laws - whether it's on bathrooms, sports, or the military - result in the largest spikes in trans media coverage. However, these spikes fade within one or two months. On the other hand, mainstream media representation, whether it's trans celebrities or TV-shows featuring trans stories, seem to result in a slightly more drawn-out rise in trans headlines. 'GLEE', 'Transparent', Caitlyn Jenner, and Laverne Cox have all seen consistent media presence in trans stories, and likely seem to influence the rise in trans visibility from 2012-2016. Meanwhile, the constants of the trans news world seem to be populist 'stories' which often objectify, sexualize, and otherwise disrespect trans identities, and headlines of hate crimes, beatings, and killings targetting transpeople. As seen in 2020, world-events besides trans-related issues also have profound effects on the number of trans headlines in a given month. 
 
 For more discussion on the content of trans headlines, see my other posts from the home page. 
+
+<footer>
+	<ul>
+	    <li><a href="/">Home</a></li>
+	    <li><a href="mailto:catherinebevan@ualberta.ca">email</a></li>
+	    <li><a href="https://github.com/cat-bevan">github.com/cat-bevan</a></li>
+	</ul>
+</footer>
