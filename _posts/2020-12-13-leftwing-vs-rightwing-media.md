@@ -9,10 +9,10 @@ Transgender identities and the LGBTQ+ community at large has long been seen as a
 Before delving into the data, it serves to review my news sources and their political leanings.
 
 ### The Toronto Star
-Canada's largest newspaper, The Toronto Star openly "champions liberal causes", often with a capital 'L'. The Liberal Party of Canada is the middle-ground, centrist party of Canada's political sphere, and The Toronto Star has taken a similar stance since it was established in the 1920's.
+Canada's largest newspaper, The Toronto Star openly "champions liberal causes" - often with a capital 'L'. The Liberal Party of Canada is the middle-ground, centrist party of Canada's political sphere, and The Toronto Star has taken a similar stance since it was established in the 1920's.
 
 ### Buzzfeed News
-Starting out as a conglomeration of click-bait videos targeting teens, Buzzfeed now employs a very competent news team that has broke some incredibly important stories, including publishing the Steele Dossier, the leaked emails of right-wing populist Milo Yiannopoulos, and Kevin Spacey's sexual misconduct accusation. Politically, they are decidedly left-wing.
+Starting out as a conglomeration of click-bait videos targeting teens, Buzzfeed now employs a very competent news team that has broke some incredibly important stories; publishing the Steele Dossier, the leaked emails of right-wing populist Milo Yiannopoulos, and Kevin Spacey's sexual misconduct accusation. Politically, they are decidedly left-wing.
 
 ### The Daily Mail
 The highest-circulated daily newspaper in the UK, The Daily Mail is a right-wing tabloid with a primarily older audience. Established in 1896, *Daily Mail* has received countless criticisms for printing sensationalist and populist stories.
@@ -42,7 +42,7 @@ It's a fascinating spread, with some serious surprises. The most important matte
 
 *HuffPost* trails not far behind. Looking through their 2020 headlines, they cover much of the news surrounding transgender law and violence against transpeople, even outside the US. Combined with a following of blog-style celebrity news following trans YouTube stars, the trans-daughter of basketball star Dwayne Wade, their percentage of trans headlines consists of both professional stories on serious topics and blog-style articles on pop-culture.
 
-There's a significant drop-off between *HuffPost* and *The Independent*. I would wager this has to do with *The Independent* (and by extension *The Toronto Star*) only publishing trans stories which fit the greater scope of their more serious publishing. I have a more difficult time explaining the position of *Daily Mail* and particularly *BuzzFeed*. Seeing *BuzzFeed* with nearly 1/10th the percentage of trans headlines as its now-child media outlet *HuffPost* is very perplexing. 
+There's a significant drop-off between *HuffPost* and *The Independent*. I would wager this has to do with *The Independent* (and by extension *The Toronto Star*) only publishing trans stories which fit the greater scope of their more serious, legacy press publishing. I have a more difficult time explaining the position of *Daily Mail* and particularly *BuzzFeed*. Seeing *BuzzFeed* with nearly 1/10th the percentage of trans headlines as its now-child media outlet *HuffPost* is very perplexing. 
 
 With this information, which is admittedly very limited in scope, no conclusions can be drawn in regards to which side of the political spectrum publishes more trans-related headlines. Moving on to the specific language used.
 
@@ -56,8 +56,7 @@ As discussed in transmen vs. transwomen representation, it is no surprise to see
 
 <iframe style='width: 637px; height: 511px;' src='https://voyant-tools.org/tool/Cirrus/?palette=d3_cat20b&stopList=keywords-67626b758aed868bb65b07441f30204d&whiteList=&visible=25&corpus=aa7cc7a6c00d4f0ae59507e7830866f8'></iframe>
 
-Three things in particular stand out to me. The first, is 'protect'. Included in headlines such as "WaPo Reveals Natural Alliance of Conservatives’
-and Feminists’ Efforts to Protect Children from Transgender Treatment", "Idaho First State to Protect Women’s Sports from Transgender Athletes" and "Transgender: HUD Issues Rule to Protect Women in Homeless Shelters", the alt-right clearly perceives trans identities as a danger to kids, cis atheletes, and ciswomen. These are old fears that have been debunked countless times by countless sources, but I suppose the far-right isn't known for their qualitative reasoning. It's vehement and blatant transphobia that is somehow still acceptable in some public circles, even after homophobia is kept out of these very same circles. 
+Three things in particular stand out to me. The first, is 'protect'. Included in headlines such as "WaPo Reveals Natural Alliance of Conservatives’ and Feminists’ Efforts to Protect Children from Transgender Treatment", "Idaho First State to Protect Women’s Sports from Transgender Athletes" and "Transgender: HUD Issues Rule to Protect Women in Homeless Shelters", the alt-right clearly perceives trans identities as a danger to kids, cis atheletes, and ciswomen. These are old fears that have been debunked countless times by countless sources, but I suppose the far-right isn't known for their qualitative reasoning. It's vehement and blatant transphobia that is somehow still acceptable in some public circles, even after homophobia is kept out of these very same circles. 
 
 Second feature of note, is the grammatical incorrectness and quotes so frequently used around the word transgender. Using slurs is apparently below them, but headlines such as "Review Ordered of NHS Rules on ‘Transgender’ Teens’ Medical Treatments", "Female Inmate Claims She Was Raped by Transgender ‘Woman’ Moved into Housing Unit", "Report Claims Transgenders Being Denied ‘Lifesaving’ Surgery" and "YouTube Censors Heritage Foundation Video Featuring Former Transgender" fill that gap of not using a slur just fine. In other news outlets, incorrect usage of transgender as a noun was largely phased out by 2012 (discussed in changes in trans-related language post). Eight years later, it's nothing but purposeful insults.
 
