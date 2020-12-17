@@ -4,7 +4,7 @@ title: "The Nature of the Digital Headline"
 date: 2020-12-13
 ---
 
-The digital headline is a fickle subject, and possess qualities that stand apart from their legacy newspaper counterparts. To quote Kuiken et. al, in their article "*Effective Headlines of Newspaper Articles in a Digital Environment*"; 
+The digital headline is a fickle subject, and possesses qualities that stand apart from their legacy newspaper counterparts. To quote Kuiken et. al, in their article "*Effective Headlines of Newspaper Articles in a Digital Environment*"; 
 
 > "Previously, the primary function of a headline was to give the reader, who was scanning the newspaper, a clear understanding of what the article was about (Van Dijk 1988). But since many headlines are not read within the context of a newspaper anymore, the function of the headline has shifted. The headline, being one of the primary ways to attract the readers’ attention, should above all make the reader curious as to what the article is about, so that it lures the reader into opening the article (Chen, Conroy, and Rubin 2015)" (Kuiken, Schuth, Spitters, and Marx 2017). 
 
